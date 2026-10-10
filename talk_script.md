@@ -59,17 +59,17 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 
 ## Slide 9. Direction 1: Development  (7:45–9:15)
 
-1. Mandarin- and English-speaking children aged 3–6 see the same cutting and blending videos as the adults in my thesis; the English sample can build on the center’s cross-cultural partners.
-2. Each child first describes the events, which gives an individual encoding profile: resultatives, quantized nouns, telic descriptions.
-3. Processing is measured with a child-friendly boundary task (“tap when it’s done”) and anticipatory looking to the end state, which also works for the youngest children.
-4. Key tests: the age at which group differences appear; whether a child’s own resultative use predicts endpoint placement beyond age and vocabulary; and a 6-month follow-up with a cross-lagged model to see whether language change comes before processing change.
+1. New event pairs address the main limit of the thesis: only cutting and blending, with instrument and motion confounded. Each pair is hands-only, on the same object, one with a clear endpoint and one gradual, for example tearing paper in half versus crumpling it. Each pair is normed and described by adults first, to confirm that the lexical and predicate contrasts fall on different events.
+2. Mandarin- and English-speaking children aged 3–6; the English sample can build on the center’s cross-cultural partners.
+3. Each child describes the events, which gives an individual profile at both levels: resultatives and quantized nouns at the lexical level, telic descriptions at the predicate level. Processing uses child-friendly versions of my two tasks: press when the video “hiccups” for phases, press when it is “done” for endpoints; eye-tracking for the youngest children.
+4. Crossed prediction: a child’s lexical encoding should predict phase sensitivity but not endpoints; predicate telicity should predict endpoints but not phases. That is a double dissociation at the individual level, which the thesis could not test. A 6-month follow-up asks whether language change comes before processing change.
 
 ## Slide 10. Direction 2: Training  (9:15–10:45)
 
-1. In the thesis, brief lexical and phrasal primes did not shift processing (BF₀₁ ≈ 1000). My own conclusion was to test sustained, task-relevant language instead.
-2. Design: pre-test, three training sessions, post-test. Mandarin children watch events described with result language (切开了, 搅碎了), action language (切一切, 搅一搅), or no language.
-3. Tests: boundary tapping and interruption detection on new videos, plus transfer to new event types such as peeling and folding.
-4. Prediction: result training moves endpoints toward the result state. Transfer to new event types would show that children learned “result” as a relation across events, which links to your work on relational learning.
+1. In the thesis, brief primes did not shift processing. Direction 2 tests sustained training, keeping the two-level logic of Experiments 4 and 5 but crossing it.
+2. Mandarin children are trained at one level, lexical cues (一颗, 切成两块) or predicate cues (切开 vs. 切一切), and tested on both tasks, interruption detection for phases and boundary tapping for endpoints.
+3. Following the thesis conclusions: three sessions in which children use the words in the task, a check that they understood the cue, and counterbalanced baseline order.
+4. Prediction: each training shifts only its own level. Training on one event family (撕 / 揉) and testing on another (掰 / 压) asks whether children learned an abstract endpoint relation rather than a word.
 
 ## Slide 11. Direction 3: Language models  (10:45–12:15)
 
@@ -80,8 +80,8 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 
 ## Slide 12. A two-year plan  (12:15–13:00)
 
-1. Year 1: the model study, which is fast and builds on existing stimuli, and the Mandarin child sample for Direction 1.
-2. Year 2: the English sample and follow-up for Direction 1, and the training study for Direction 2.
+1. Year 1: replicate Experiments 1–3 with adults on the new event pairs, which generalizes the thesis and validates materials for children; run the model study in parallel.
+2. Year 2: Direction 1 with children, and the training study for Direction 2.
 3. Throughout: publish the thesis papers, apply for funding, and mentor students.
 4. Together these move from correspondence to development, learning and input.
 
