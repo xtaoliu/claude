@@ -31,10 +31,10 @@ About 13 minutes, 11 slides. The same numbered points are in the PowerPoint spea
 
 ## Slide 5. Study 3  (5:00–5:45)
 
-1. This is a sole-authored corpus study, now at minor revision in Language and Cognition.
-2. It asks whether Mandarin parents use superordinate nouns like 动物 and 水果 in the same informative contexts as English parents, even though Mandarin has no obligatory plural.
-3. Across 11 Mandarin CHILDES corpora, superordinates are over-represented in all four available contexts: quantifiers, wh-phrases, “kind of”, and “another”.
-4. In both languages, corpus frequency predicts age of acquisition, while the contextual cues add little. Like my other work, it asks how linguistic input guides children toward abstraction.
+1. This sole-authored corpus study, at minor revision in Language and Cognition, tests the pragmatic-informativeness account of superordinate nouns (Choe & Papafragou). Words like “animal” are under-informative, so in English they appear in contexts that signal generality: plurals, quantifiers, wh-phrases, “kind of”, “another”.
+2. Mandarin has no obligatory plural, so it separates two versions of the account. If the cues are a fixed English form that depends on plurals, the contrast should weaken. If they reflect a shared communicative function, the remaining cues should still carry it.
+3. Across 11 Mandarin CHILDES corpora, all four available contexts were associated with superordinates (odds ratios 2.1 to 8.2), robust to overlapping cues, and a classifier recovered the semantic level above chance (AUC = .73). So the cues reflect a shared function, not a fixed form.
+4. But availability is not use: in both languages, corpus frequency predicted age of acquisition, while cue exposure added little. Whether children actually use these cues needs experiments, the same step from correspondence to learning that runs through my future plans.
 
 ## Slide 6. From the thesis to three questions  (5:45–6:30)
 
