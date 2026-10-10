@@ -31,10 +31,10 @@ About 13 minutes, 11 slides. The same numbered points are in the PowerPoint spea
 
 ## Slide 5. Study 3  (5:00–5:45)
 
-1. This sole-authored corpus study, at minor revision in Language and Cognition, tests the pragmatic-informativeness account of superordinate nouns (Choe & Papafragou). Words like “animal” are under-informative, so in English they appear in contexts that signal generality: plurals, quantifiers, wh-phrases, “kind of”, “another”.
-2. Mandarin has no obligatory plural, so it separates two versions of the account. If the cues are a fixed English form that depends on plurals, the contrast should weaken. If they reflect a shared communicative function, the remaining cues should still carry it.
-3. Across 11 Mandarin CHILDES corpora, all four available contexts were associated with superordinates (odds ratios 2.1 to 8.2), robust to overlapping cues, and a classifier recovered the semantic level above chance (AUC = .73). So the cues reflect a shared function, not a fixed form.
-4. But availability is not use: in both languages, corpus frequency predicted age of acquisition, while cue exposure added little. Whether children actually use these cues needs experiments, the same step from correspondence to learning that runs through my future plans.
+1. This sole-authored paper, at minor revision in Language and Cognition, tests the pragmatic-informativeness account of Choe and Papafragou: superordinate nouns like “animal” are under-informative, so speakers use them in contexts that signal generality, such as quantifiers, wh-phrases, “kind of” and “another”. The account was built on English; Mandarin is a strong test because it lacks obligatory plural marking.
+2. Study 1 replicates their corpus analysis in 11 Mandarin CHILDES corpora: do these contexts separate superordinate from basic-level nouns in Mandarin child-directed speech?
+3. They do. All four Mandarin-available contexts were associated with superordinates (odds ratios 2.1 to 8.2), robust to overlapping cues, and a classifier recovered semantic level from the contexts (AUC = .73). So the account replicates beyond English.
+4. Study 2 asks whether a word’s exposure to these cues predicts its age of acquisition, in Mandarin and English. Corpus frequency did; cue exposure added little. The cues are present in the input, but whether children use them needs experiments.
 
 ## Slide 6. From the thesis to three questions  (5:45–6:30)
 
