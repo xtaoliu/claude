@@ -13,7 +13,7 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 1. Mandarin gives a clean contrast: cā names only the action; cā-gānjìng names the action and its result.
 2. My work asks whether this kind of difference matters for cognition.
 3. Part one: adults, in my PhD.
-4. Part two: children, with Yue Ji. Part three: the project I would like to build here.
+4. Part two: children, with Yue Ji. Part three: three directions that grow out of the thesis.
 
 ## Slide 3. PhD design  (1:30–2:30)
 
@@ -43,51 +43,51 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 3. So the link is real, but a one-off cue does not produce it.
 4. If language shapes event representation, it more likely does so over time, through learning.
 
-## Slide 7. What the thesis leaves open  (5:45–6:15)
-
-1. Finding: encoding and processing correspond at two levels, words with event phases and predicates with endpoints.
-2. Limit: brief cues did not cause shifts; two event types; adults only.
-3. Open question: if language shapes events, it should do so through learning.
-4. So the next step is children and sustained, meaningful input.
-
-## Slide 8. Children  (6:15–7:45)
+## Slide 7. Children  (5:45–7:00)
 
 1. Children often reject “she peeled the lychee” when it is not open, more than adults do.
 2. We propose this depends on the specific action–result relation: peeling very likely opens a lychee, squeezing less so.
 3. Ten matched pairs, 40 videos; 32 four-year-olds, 32 five-year-olds and 40 adults per experiment; adult ratings of likelihood and typicality as predictors.
-4. [Main result here, or: data are collected and analysis is in progress.] Children already track relations between actions and results. I also have a corpus paper on superordinate nouns, at minor revision in Language and Cognition.
+4. [Main result here, or: data are collected and analysis is in progress.] So I already test children on action–result events, with videos and ratings I can reuse.
 
-## Slide 9. An action–result is a relation  (7:45–8:45)
+## Slide 8. From the thesis to three questions  (7:00–7:45)
 
-1. Wiping a mirror clean and rinsing a cup clean share no object or action, only a causal relation.
-2. Verbs are relational terms, and your work shows that relational language makes relations explicit and portable.
-3. Mandarin resultatives are relational language for events, so they are a natural test case.
-4. Two questions follow: does naming the result help, and do comparison and explanation make it general?
+1. The thesis shows a correspondence between language and event processing in adults, but not where it comes from.
+2. Question 1: when do these differences emerge in development? That is Direction 1.
+3. Question 2: brief primes did not work, so can sustained language change processing? That is Direction 2.
+4. Question 3: is linguistic input alone enough to produce these patterns? Language models let us test that, Direction 3.
 
-## Slide 10. Direction 1  (8:45–10:30)
+## Slide 9. Direction 1: Development  (7:45–9:15)
 
-1. Learning: children watch a causal event described with the result named, the action only, or no label. Videos follow the method I used in my PhD and child study.
-2. Test, without language: a relational match (rinse a cup clean) against two foils, same action without the result, and same end state without the action.
-3. Measures: relational matching, prediction of what happens next, and transfer to new objects and actions. Ages 3–5, within Mandarin, so language is manipulated rather than confounded with culture.
-4. Prediction: result named > action only ≈ no label, strongest against the same-action foil. Preregistered Bayesian GLMMs, sample size by simulation-based power analysis.
+1. Mandarin- and English-speaking children aged 3–6 see the same cutting and blending videos as the adults in my thesis; the English sample can build on the center’s cross-cultural partners.
+2. Each child first describes the events, which gives an individual encoding profile: resultatives, quantized nouns, telic descriptions.
+3. Processing is measured with a child-friendly boundary task (“tap when it’s done”) and anticipatory looking to the end state, which also works for the youngest children.
+4. Key tests: the age at which group differences appear; whether a child’s own resultative use predicts endpoint placement beyond age and vocabulary; and a 6-month follow-up with a cross-lagged model to see whether language change comes before processing change.
 
-## Slide 11. Direction 2  (10:30–12:00)
+## Slide 10. Direction 2: Training  (9:15–10:45)
 
-1. Builds on your finding that comparison helps children learn relations (Christie & Gentner, 2010).
-2. 2 × 2 design: one event vs. two aligned events, with or without an explanation prompt (“为什么会干净？”). Result-named language from Direction 1 is held constant.
-3. Transfer to new objects, actions and contexts, varying surface similarity separately from the relation.
-4. Prediction: comparison beats one event, and explanation adds most when surface similarity is low, that is, for far transfer.
+1. In the thesis, brief lexical and phrasal primes did not shift processing (BF₀₁ ≈ 1000). My own conclusion was to test sustained, task-relevant language instead.
+2. Design: pre-test, three training sessions, post-test. Mandarin children watch events described with result language (切开了, 搅碎了), action language (切一切, 搅一搅), or no language.
+3. Tests: boundary tapping and interruption detection on new videos, plus transfer to new event types such as peeling and folding.
+4. Prediction: result training moves endpoints toward the result state. Transfer to new event types would show that children learned “result” as a relation across events, which links to your work on relational learning.
 
-## Slide 12. A two-year plan  (12:00–12:45)
+## Slide 11. Direction 3: Language models  (10:45–12:15)
 
-1. Year 1: Direction 1, two preregistered experiments and one paper.
-2. Year 2: Direction 2, plus pilots on parent–child play and a children vs. AI comparison using the same tasks.
+1. This follows Rognan, Grigoroglou and Bhattasali (CogSci 2026), who used masked language models as psycholinguistic test subjects for event order across English, Norwegian and Greek.
+2. I would use matched monolingual models (English BERT and Chinese BERT, then larger LLMs) and cloze items built from my human stimuli: which result complement a model predicts in 他把橙子搅[MASK]了, and which determiner in “She cut [MASK] orange”.
+3. A second test targets culmination: in 他切了橙子，但是[MASK], does the model allow the result to be cancelled, as Mandarin speakers do, and does it not in English?
+4. Model scores are compared with three human benchmarks: my Exp 1 descriptions, the adult result-likelihood ratings, and children’s judgments. Where models match adults, text is enough; where children differ from models, that shows what experience adds.
+
+## Slide 12. A two-year plan  (12:15–13:00)
+
+1. Year 1: the model study, which is fast and builds on existing stimuli, and the Mandarin child sample for Direction 1.
+2. Year 2: the English sample and follow-up for Direction 1, and the training study for Direction 2.
 3. Throughout: publish the thesis papers, apply for funding, and mentor students.
-4. Together these test three learning tools for event relations: naming, comparing and explaining.
+4. Together these move from correspondence to development, learning and input.
 
-## Slide 13. What I would bring  (12:45–13:30)
+## Slide 13. What I would bring  (13:00–13:45)
 
 1. Methods: video stimuli, child testing, Bayesian modelling.
 2. Projects: I led a field project at CAS and ran a preregistered multi-experiment thesis.
-3. Fit: event language meets relational learning, with Mandarin–English expertise.
+3. Fit: event language in development, Mandarin–English expertise, and both experiments and models.
 4. Thank you, and I am happy to take questions.
