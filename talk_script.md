@@ -27,7 +27,7 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 1. Telicity shows a crossover: English is more telic for cutting (79% vs. 51%), Mandarin for blending (44% vs. 17%).
 2. English speakers mark the object with quantized noun phrases (68% vs. 13%).
 3. Mandarin speakers use resultatives for blending (44% vs. 17%).
-4. So the two languages make different parts of the same event prominent.
+4. So the languages differ at two levels: the lexical level and the whole predicate. This two-level distinction is the main contribution of the thesis.
 
 ## Slide 5. Exp 2–3  (3:30–4:45)
 
@@ -55,7 +55,7 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 1. The thesis shows a correspondence between language and event processing in adults, but not where it comes from.
 2. Question 1: when do these differences emerge in development? That is Direction 1.
 3. Question 2: brief primes did not work, so can sustained language change processing? That is Direction 2.
-4. Question 3: is linguistic input alone enough to produce these patterns? Language models let us test that, Direction 3.
+4. Question 3: does text alone yield both levels of event encoding? Language models let us test that, Direction 3.
 
 ## Slide 9. Direction 1: Development  (7:45–9:15)
 
@@ -73,10 +73,10 @@ About 13.5 minutes, 13 slides. The same numbered points are in the PowerPoint sp
 
 ## Slide 11. Direction 3: Language models  (10:45–12:15)
 
-1. This follows Rognan, Grigoroglou and Bhattasali (CogSci 2026), who used masked language models as psycholinguistic test subjects for event order across English, Norwegian and Greek.
-2. I would use matched monolingual models (English BERT and Chinese BERT, then larger LLMs) and cloze items built from my human stimuli: which result complement a model predicts in 他把橙子搅[MASK]了, and which determiner in “She cut [MASK] orange”.
-3. A second test targets culmination: in 他切了橙子，但是[MASK], does the model allow the result to be cancelled, as Mandarin speakers do, and does it not in English?
-4. Model scores are compared with three human benchmarks: my Exp 1 descriptions, the adult result-likelihood ratings, and children’s judgments. Where models match adults, text is enough; where children differ from models, that shows what experience adds.
+1. The main contribution of my thesis is separating two levels of event encoding: local lexical cues (quantized nouns, resultatives) and whole-predicate telicity. Direction 3 asks whether language models separate them too.
+2. Following Rognan, Grigoroglou and Bhattasali (CogSci 2026), I would treat matched monolingual models, English BERT and Chinese BERT, as test subjects in cloze tasks built from my stimuli, then extend to multilingual models and larger LLMs.
+3. Lexical level: which determiner the model predicts in “She cut [MASK] orange”, and which result complement in 他把橙子搅[MASK]了, for cutting versus blending verbs. Predicate level: “in” versus “for” in “cut an orange [MASK] two seconds”, and whether the model allows cancellation in 他切了橙子，但是[MASK].
+4. Key test: does the predicate-level choice flip when the lexical cue flips (an orange vs. oranges; 切开 vs. 切)? If models match humans at the lexical level but not the predicate level, they rely on surface statistics rather than event structure. Model scores are compared with my Exp 1 descriptions and the adult and child data.
 
 ## Slide 12. A two-year plan  (12:15–13:00)
 
