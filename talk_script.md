@@ -45,14 +45,14 @@
 
 ## Slide 7. A two-year plan
 
-1. Year 1: replicate Experiments 1–3 with adults on the new event pairs, which generalizes the thesis and validates materials for children; run the model study in parallel.
-2. Year 2: Direction 1 with children, and the training study for Direction 2.
-3. Throughout: publish the thesis papers, apply for funding, and mentor students.
-4. Together these move from correspondence to development, learning and input.
+1. Year 1 builds and validates. I would film and norm the new hands-only event pairs, and replicate the two-level effects with adults, which generalizes the thesis beyond cutting and blending and gives validated materials for children. The video-language model study (Direction 3) runs in parallel, because it needs only the videos, so it can be published early, for example at CogSci. I would also pilot the child versions of the tasks and complete ethics approval.
+2. Year 2 tests children with these materials: Direction 1 with Mandarin-speaking children aged 3–6, an English sample through the center’s cross-cultural partners, and the 6-month follow-up; and the Direction 2 training study.
+3. Throughout, I would publish my thesis and child papers, apply to the China Postdoctoral Science Foundation and the NSFC Young Scientists Fund, and help mentor students in child testing and Bayesian analysis, with materials and data shared openly.
+4. The expected outputs are an adult paper and a model paper in Year 1, two child papers in Year 2, and two grant applications. The logic is that Year 1 builds validated materials and models, and Year 2 tests children with them.
 
 ## Slide 8. What I would bring
 
-1. Methods: video stimuli, child testing, Bayesian modelling.
-2. Projects: I led a field project at CAS and ran a preregistered multi-experiment thesis.
-3. Fit: event language in development, Mandarin–English expertise, and both experiments and models.
+1. Research skills: I build event videos and run online processing tasks such as interruption detection and boundary tapping; I have tested 4- and 5-year-olds in kindergartens; I analyse child-directed speech corpora; and I model data with Bayesian GLMMs and SEM in R and Python.
+2. Track record: a sole-authored paper at minor revision in Language and Cognition, a CogSci 2026 proceedings paper and a talk at HSP 2026 at MIT, a China Scholarship Council scholarship and University of Auckland research funding, and reviewing for CogSci and the Journal of Multilingual and Multicultural Development.
+3. Teamwork: at the Institute of Psychology, CAS, I led a project on the needs of migrant families, including children, from interviews to questionnaires; I teach experimental methods as a TA; I speak Mandarin, Xiang and English; and I have kindergarten links in Hunan for child recruitment.
 4. Thank you, and I am happy to take questions.
